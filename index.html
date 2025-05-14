@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Weather Finder</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="card">
+        <div class="flex">
+            <input id="input" type="text" placeholder="Enter a city name">
+            <button id="button"><img src="images/search.png"></button>
+        </div>    
+        <div class="error">
+            <p>Incorrect city name</p>
+        </div>
+        <div class="weather">
+            <div>
+                <img class="icon" src="images/clear.png">
+            </div>
+            <h1 id="temp">22°C</h1>
+            <h2 id="city">Warsaw</h2>
+            <div class="details">
+                <div class="col">
+                    <img src="images/humidity.png">
+                    <div>
+                        <p id="humidity">50%</p>
+                        <p>humidity</p>
+                    </div>    
+                </div>    
+                <div class="col">
+                    <img src="images/wind.png">
+                    <div>
+                        <p id="wind">50 km/h</p>
+                        <p>Wind speed</p>
+                    </div>    
+                </div>
+            </div>
+        </div>
+    </div>    
+    <script src="script.js"></script>
+</body>    
+</html>
