@@ -4,4 +4,4 @@ Weather App provides real-time weather updates including temperature, humidity, 
 ## Screenshots
 ![image-alt](https://github.com/robertmichalak17/Weather-App/blob/73b04237811a8732fc39d1540e24f8cc23d28e56/weather.jpg)
 
-![image-alt](https://github.com/robertmichalak17/Weather-App/blob/0497f2e5cc500cf60c64d3dda95a145c738af771/weather2.jpg)
+![image-alt](https://github.com/robertmichalak17/Weather-App/blob/0ef709d29673c143c6f26f2d3379e18edd5e05ad/weather2.jpg)
